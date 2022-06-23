@@ -1,4 +1,5 @@
 @charset "utf-8";
+@import url('http://fonts.cdnfonts.com/css/gordita');
 
 /*
 /*	Copyright (c) 2022 Marketify
@@ -32,7 +33,7 @@ html {
 body{
 	overflow-x: hidden;
 	width: 100%;
-	font-family: "Mulish";
+	font-family: 'Gordita', sans-serif;
 	font-size: 16px;
 	line-height: 1.7;
 	letter-spacing: 0.2px;
