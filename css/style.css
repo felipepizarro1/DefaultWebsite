@@ -352,6 +352,14 @@ h6 { font-size: 16px; }
 .edrea_tm_header .header_inner div a i:hover{
 	color: var(--main-color);
 }
+
+.edrea_tm_topbar .topbar_inner div a i{
+	color: white;
+}
+
+.edrea_tm_topbar .topbar_inner div a i:hover{
+	color: var(--main-color);
+}
 .edrea_tm_header .menu ul{
 	margin: 0px;
 	list-style-type: none;
